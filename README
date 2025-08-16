@@ -1,1 +1,3 @@
-This is a project created in 2023 for the IB Computer Science HL Internal Assessment.
+This is a project created in 2023 for the IB Computer Science HL Internal Assessment. 
+It is a Java/Jswing application for users to manage their medication schedule, and relies upon saving/loading local files to preserve user data. 
+Though it's not perfect, its a demonstration of my high school proficiency in Java and writing Jswing applications.
